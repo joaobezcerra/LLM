@@ -8,15 +8,17 @@
 
 ```
 genai4se-course/
-├── rag-example/              # Retrieval-Augmented Generation pipeline
-├── fine-tuning-example/      # LLM fine-tuning workflow
-├── tool-calling-example/     # Function/tool calling with LLMs
-├── mcp-example/              # Model Context Protocol integration
-├── attention-visualization/  # Transformer attention map visualization
-└── assured-tdd/              # AI-assisted Test-Driven Development
+├── code/
+│   ├── rag-example/              # Retrieval-Augmented Generation pipeline
+│   ├── fine-tuning-example/      # LLM fine-tuning workflow
+│   ├── tool-calling-example/     # Function/tool calling with LLMs
+│   ├── mcp-example/              # Model Context Protocol integration
+│   ├── attention-visualization/  # Transformer attention map visualization
+│   └── assured-tdd/              # AI-assisted Test-Driven Development
+└── presentation/                 # Slides (LaTeX sources and PDFs, PT-BR and EN)
 ```
 
-Each directory is self-contained and includes its own notebook(s) and dependencies.
+Each directory under `code/` is self-contained and includes its own notebook(s) and dependencies.
 
 ---
 
